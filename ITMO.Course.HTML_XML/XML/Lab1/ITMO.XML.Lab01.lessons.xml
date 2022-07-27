@@ -1,0 +1,65 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<TimeTable>
+	<subjects>
+		<subject id = "1">
+			<Name>Антон</Name>
+			<MiddleName>Валентинович</MiddleName>
+			<LastName>Смольянинов</LastName>
+			<Lesson>Технологии программирования</Lesson>
+			<Post>ст. преп.</Post>
+			<Date>28 марта – 15 апреля 2022г.</Date>
+			<Hours>50</Hours>
+			<FinalAssessment>зачёт</FinalAssessment>
+		</subject>
+		<subject id = "2">
+			<Name>Денис</Name>
+			<MiddleName>Викторович</MiddleName>
+			<LastName>Ямщиков</LastName>
+			<Lesson>Введение в базы данных</Lesson>
+			<Post>ст. преп.</Post>
+			<Date>18 – 29 апреля </Date>
+			<Hours>30</Hours>
+			<FinalAssessment>зачёт</FinalAssessment>
+		</subject>
+		<subject id = "3">
+			<Name>Антон</Name>
+			<MiddleName>Валентинович</MiddleName>
+			<LastName>Смольянинов</LastName>
+			<Lesson>Программирование на C#</Lesson>
+			<Post>ст. преп.</Post>
+			<Date>27 июня – 18 июля </Date>
+			<Hours>50</Hours>
+			<FinalAssessment>зачёт</FinalAssessment>
+		</subject>
+		<subject id = "4">
+			<Name>Денис</Name>
+			<MiddleName>Викторович</MiddleName>
+			<LastName>Ямщиков</LastName>
+			<Lesson>Transact-SQL и Разработка Microsoft SQL Server</Lesson>
+			<Post>ст. преп.</Post>
+			<Date>2 – 24 июня</Date>
+			<Hours>65</Hours>
+			<FinalAssessment>экзамен</FinalAssessment>
+		</subject>
+		<subject id = "5">
+			<Name>Антон</Name>
+			<MiddleName>Валентинович</MiddleName>
+			<LastName>Смольянинов</LastName>
+			<Lesson>Разработка Windows-приложений на C#</Lesson>
+			<Post>ст. преп.</Post>
+			<Date>27 июня – 18 июля</Date>
+			<Hours>50</Hours>
+			<FinalAssessment>экзамен</FinalAssessment>
+		</subject>
+		<subject id = "6">
+			<Name>Антон</Name>
+			<MiddleName>Валентинович</MiddleName>
+			<LastName>Смольянинов</LastName>
+			<Lesson>Основы технологий разметки (HTML, XML)</Lesson>
+			<Post>ст. преп.</Post>
+			<Date>20 – 27 июля </Date>
+			<Hours>20</Hours>
+			<FinalAssessment>зачёт</FinalAssessment>
+		</subject>
+	</subjects>
+</TimeTable>

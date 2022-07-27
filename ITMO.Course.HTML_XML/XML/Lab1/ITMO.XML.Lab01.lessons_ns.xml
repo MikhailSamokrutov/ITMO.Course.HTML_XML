@@ -1,0 +1,66 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<myns:TimeTable xmlns:myns = "http://www.itmo.ru/xml/lessons" >
+	<myns:subjects>
+		<myns:subject id = "1">
+			<myns:Name>Антон</myns:Name>
+			<myns:MiddleName>Валентинович</myns:MiddleName>
+			<myns:LastName>Смольянинов</myns:LastName>
+			<myns:Lesson>Технологии программирования</myns:Lesson>
+			<myns:Post>ст. преп.</myns:Post>
+			<myns:Date>28 марта – 15 апреля 2022г.</myns:Date>
+			<myns:Hours>50</myns:Hours>
+			<myns:FinalAssessment>зачёт</myns:FinalAssessment>
+			<myns:Website>"https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm"</myns:Website>
+		</myns:subject>
+		<myns:subject id = "2">
+			<myns:Name>Денис</myns:Name>
+			<myns:MiddleName>Викторович</myns:MiddleName>
+			<myns:LastName>Ямщиков</myns:LastName>
+			<myns:Lesson>Введение в базы данных</myns:Lesson>
+			<myns:Post>ст. преп.</myns:Post>
+			<myns:Date>18 – 29 апреля </myns:Date>
+			<myns:Hours>30</myns:Hours>
+			<myns:FinalAssessment>зачёт</myns:FinalAssessment>
+		</myns:subject>
+		<myns:subject id = "3">
+			<myns:Name>Антон</myns:Name>
+			<myns:MiddleName>Валентинович</myns:MiddleName>
+			<myns:LastName>Смольянинов</myns:LastName>
+			<myns:Lesson>Программирование на C#</myns:Lesson>
+			<myns:Post>ст. преп.</myns:Post>
+			<myns:Date>27 июня – 18 июля </myns:Date>
+			<myns:Hours>50</myns:Hours>
+			<myns:FinalAssessment>зачёт</myns:FinalAssessment>
+		</myns:subject>
+		<myns:subject id = "4">
+			<myns:Name>Денис</myns:Name>
+			<myns:MiddleName>Викторович</myns:MiddleName>
+			<myns:LastName>Ямщиков</myns:LastName>
+			<myns:Lesson>Transact-SQL и Разработка Microsoft SQL Server</myns:Lesson>
+			<myns:Post>ст. преп.</myns:Post>
+			<myns:Date>2 – 24 июня</myns:Date>
+			<myns:Hours>65</myns:Hours>
+			<myns:FinalAssessment>экзамен</myns:FinalAssessment>
+		</myns:subject>
+		<myns:subject id = "5">
+			<myns:Name>Антон</myns:Name>
+			<myns:MiddleName>Валентинович</myns:MiddleName>
+			<myns:LastName>Смольянинов</myns:LastName>
+			<myns:Lesson>Разработка Windows-приложений на C#</myns:Lesson>
+			<myns:Post>ст. преп.</myns:Post>
+			<myns:Date>27 июня – 18 июля</myns:Date>
+			<myns:Hours>50</myns:Hours>
+			<myns:FinalAssessment>экзамен</myns:FinalAssessment>
+		</myns:subject>
+		<myns:subject id = "6">
+			<myns:Name>Антон</myns:Name>
+			<myns:MiddleName>Валентинович</myns:MiddleName>
+			<myns:LastName>Смольянинов</myns:LastName>
+			<myns:Lesson>Основы технологий разметки (HTML, XML)</myns:Lesson>
+			<myns:Post>ст. преп.</myns:Post>
+			<myns:Date>20 – 27 июля </myns:Date>
+			<myns:Hours>20</myns:Hours>
+			<myns:FinalAssessment>зачёт</myns:FinalAssessment>
+		</myns:subject>
+	</myns:subjects>
+</myns:TimeTable>
